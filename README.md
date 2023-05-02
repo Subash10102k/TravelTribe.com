@@ -119,5 +119,5 @@ If you would like to contribute to this project, please follow these guidelines:
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - [Mongo DB](https://www.mongodb.com/atlas/database)
-- [HTML] (https://en.wikipedia.org/wiki/HTML)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
 - [NodeJS](https://nodejs.org/en/docs)
